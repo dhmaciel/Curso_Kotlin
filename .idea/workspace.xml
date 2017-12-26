@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a1bda8-9741-449c-81d1-e318ca7d325b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fundamentos/controle/BreakRotulado.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Aritmeticos.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Destructuring.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Relacionais.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fundamentos/ChecagemDeTipo.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fundamentos/ConversaoNumeroString.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Ternario1.kt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/fundamentos/operadores/Ternario2.kt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" afterPath="$PROJECT_DIR$/out/production/CursoKotlin/META-INF/CursoKotlin.kotlin_module" />
+      <change beforePath="$PROJECT_DIR$/out/production/CursoKotlin/fundamentos/operadores/RelacionaisKt.class" afterPath="$PROJECT_DIR$/out/production/CursoKotlin/fundamentos/operadores/RelacionaisKt.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +50,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Relacionais.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Relacionais.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fundamentos/operadores/Relacionais.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ternario1.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fundamentos/operadores/Ternario1.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ternario2.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fundamentos/operadores/Ternario2.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="73" lean-forward="false" selection-start-line="2" selection-start-column="73" selection-end-line="2" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConversaoNumeroString.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fundamentos/ConversaoNumeroString.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChecagemDeTipo.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fundamentos/ChecagemDeTipo.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -110,6 +151,10 @@
         <option value="$PROJECT_DIR$/src/fundamentos/controle/For4.kt" />
         <option value="$PROJECT_DIR$/src/fundamentos/operadores/Aritmeticos.kt" />
         <option value="$PROJECT_DIR$/src/fundamentos/operadores/Relacionais.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentos/operadores/Ternario1.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentos/operadores/Ternario2.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentos/ConversaoNumeroString.kt" />
+        <option value="$PROJECT_DIR$/src/fundamentos/ChecagemDeTipo.kt" />
       </list>
     </option>
   </component>
@@ -216,20 +261,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fundamentos" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CursoKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoKotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="controle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CursoKotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CursoKotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fundamentos" type="462c0819:PsiDirectoryNode" />
-              <item name="operadores" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -255,7 +286,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.fundamentos.operadores.RelacionaisKt">
+  <component name="RunManager" selected="Kotlin.fundamentos.ChecagemDeTipoKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -297,9 +328,9 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="fundamentos.controle.BreakRotuladoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentos.ChecagemDeTipoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.BreakRotuladoKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ChecagemDeTipoKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -309,33 +340,9 @@
       <module name="CursoKotlin" />
       <envs />
     </configuration>
-    <configuration name="fundamentos.controle.For4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="fundamentos.ConversaoNumeroStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.controle.For4Kt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CursoKotlin" />
-      <envs />
-    </configuration>
-    <configuration name="fundamentos.operadores.AritmeticosKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.AritmeticosKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="CursoKotlin" />
-      <envs />
-    </configuration>
-    <configuration name="fundamentos.operadores.DestructuringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.DestructuringKt" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.ConversaoNumeroStringKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -348,6 +355,30 @@
     <configuration name="fundamentos.operadores.RelacionaisKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.RelacionaisKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CursoKotlin" />
+      <envs />
+    </configuration>
+    <configuration name="fundamentos.operadores.Ternario1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.Ternario1Kt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CursoKotlin" />
+      <envs />
+    </configuration>
+    <configuration name="fundamentos.operadores.Ternario2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="fundamentos.operadores.Ternario2Kt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -398,19 +429,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.fundamentos.controle.For4Kt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.fundamentos.controle.BreakRotuladoKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.DestructuringKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.AritmeticosKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.RelacionaisKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.RelacionaisKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.Ternario1Kt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.Ternario2Kt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.fundamentos.ConversaoNumeroStringKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.fundamentos.ChecagemDeTipoKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.RelacionaisKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.AritmeticosKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.fundamentos.controle.For4Kt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.DestructuringKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.fundamentos.controle.BreakRotuladoKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.fundamentos.ChecagemDeTipoKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.fundamentos.ConversaoNumeroStringKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.Ternario2Kt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.Ternario1Kt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.fundamentos.operadores.RelacionaisKt" />
       </list>
     </recent_temporary>
   </component>
@@ -440,21 +471,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.50289017" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32873806" sideWeight="0.49710983" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32873806" sideWeight="0.49710983" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -849,6 +881,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/operadores/Ternario1.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/operadores/Ternario2.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="73" lean-forward="false" selection-start-line="2" selection-start-column="73" selection-end-line="2" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/ConversaoNumeroString.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fundamentos/ChecagemDeTipo.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding />
         </state>
       </provider>
