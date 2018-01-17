@@ -16,4 +16,6 @@ fun main(args: Array<String>) {
 
     println("Alunos aprovados: $aprovados")
     println("Alunos reprovados: $reprovados")
+
+
 }
